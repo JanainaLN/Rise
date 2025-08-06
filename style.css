@@ -19,3 +19,13 @@ h1, h2 {
         width: 300px; 
         height: auto;
 }
+ol, ul {
+    background-color: white;
+    color: #e84e0f;
+    padding: 30px 30px;
+    border-radius: 10px;
+    margin: 20px auto;
+    width: max-content;
+    font-weight: bold;
+    font-size: 25px;
+}
