@@ -45,8 +45,8 @@ font-size: 28px;
 border-radius: 8px;
 }
 a:hover {
-    background-color: var(--neon-roxo);
-    color: var(--cyano);
+    background-color: white;
+    color: #e84e0f;
     transition: 0.6s;
 }
 footer {
@@ -61,8 +61,6 @@ footer {
 .retangulo {
    padding: 40px;              
     border-radius: 8px; 
-        
-   
     margin: 20px auto;
     width: 300px;  
     font-size: 28px; 
@@ -74,6 +72,3 @@ footer {
 
 
 }
-
-
-
